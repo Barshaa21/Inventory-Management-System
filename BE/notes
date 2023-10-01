@@ -1,0 +1,7 @@
+//     const filter = { _id: ObjectId(req.body._id) };
+//     const filter = { _id: ObjectId(req.body._id) };
+//     const update = { $set: req.body.changes };
+//     const result = await collection.updateOne(filter, update);
+
+// res.status(404).json({ status: 404, message: "Document not found" });
+// res.send({ status: 404, message: "Document not found" });
